@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1-Sonar-Sweep", "Day1\Day1-Sonar-Sweep.csproj", "{F9F9FBCF-385A-4070-A43D-0D67A71080C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2-Dive!", "Day2-Dive!\Day2-Dive!.csproj", "{AC6D5884-3367-4810-BA55-77EAE4967E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2-Dive!", "Day2-Dive!\Day2-Dive!.csproj", "{AC6D5884-3367-4810-BA55-77EAE4967E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3-Binary-Diagnostic", "Day3-Binary-Diagnostic\Day3-Binary-Diagnostic.csproj", "{8B79E78B-AB66-4C7B-8B76-17FDBCE1954A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AC6D5884-3367-4810-BA55-77EAE4967E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC6D5884-3367-4810-BA55-77EAE4967E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC6D5884-3367-4810-BA55-77EAE4967E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B79E78B-AB66-4C7B-8B76-17FDBCE1954A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B79E78B-AB66-4C7B-8B76-17FDBCE1954A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B79E78B-AB66-4C7B-8B76-17FDBCE1954A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B79E78B-AB66-4C7B-8B76-17FDBCE1954A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
